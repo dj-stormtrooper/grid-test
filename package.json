@@ -1,0 +1,24 @@
+{
+  "name": "grid-test",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dj-stormtrooper/grid-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dj-stormtrooper/grid-test/issues"
+  },
+  "homepage": "https://github.com/dj-stormtrooper/grid-test#readme",
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "webdriverio": "^7.16.12"
+  }
+}
