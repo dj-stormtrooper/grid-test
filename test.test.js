@@ -13,7 +13,7 @@ it('показыват проблему с преждевременным зак
         'selenoid:options': {
             enableVideo: true,
             // таймаут селеноида, если его поднять - все начинает работать (дефолтный 1m) 
-            sessionTimeout: '10m',
+            // sessionTimeout: '10m',
         },
     };
 
